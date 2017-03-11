@@ -828,7 +828,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="56.0234375" x="-1200.556096549618" y="4002.062662881721"/>
+          <y:Geometry height="30.0" width="56.0234375" x="-1311.1667837460625" y="4226.813451159398"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="46.0234375" x="5.0" y="5.6494140625">Medulla<y:LabelModel>
@@ -990,7 +990,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="77.345703125" x="-1162.6134095186292" y="2655.0"/>
+          <y:Geometry height="30.0" width="77.345703125" x="-2494.134973119597" y="3075.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="67.345703125" x="5.0" y="5.6494140625">Gray matter<y:LabelModel>
@@ -1008,7 +1008,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="82.015625" x="-1391.0078125" y="2518.41200896"/>
+          <y:Geometry height="30.0" width="82.015625" x="-2365.744800164516" y="2742.014414203871"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="72.015625" x="5.0" y="5.6494140625">White matter<y:LabelModel>
@@ -6030,7 +6030,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="127.390625" x="-1649.662267886492" y="2955.0"/>
+          <y:Geometry height="30.0" width="127.390625" x="-2414.399255551008" y="2325.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="117.390625" x="5.0" y="5.6494140625">Anatomical reference<y:LabelModel>
@@ -6048,7 +6048,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="93.365234375" x="-1726.6826171875" y="2835.0"/>
+          <y:Geometry height="30.0" width="93.365234375" x="-2491.419604852016" y="2205.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="83.365234375" x="5.0" y="5.6494140625">Anterior/Rostal<y:LabelModel>
@@ -6066,7 +6066,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="103.37890625" x="-1517.2913326479838" y="2835.0"/>
+          <y:Geometry height="30.0" width="103.37890625" x="-2282.0283203125" y="2205.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="93.37890625" x="5.0" y="5.6494140625">Posterior/Caudal<y:LabelModel>
@@ -6084,7 +6084,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="67.349609375" x="-1743.6748046875" y="2895.0"/>
+          <y:Geometry height="30.0" width="67.349609375" x="-2508.411792352016" y="2265.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="57.349609375" x="5.0" y="5.6494140625">Up/Dorsal<y:LabelModel>
@@ -6102,7 +6102,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="86.03515625" x="-1508.6194576479838" y="2895.0"/>
+          <y:Geometry height="30.0" width="86.03515625" x="-2273.3564453125" y="2265.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="76.03515625" x="5.0" y="5.6494140625">Down/Ventral<y:LabelModel>
@@ -6120,7 +6120,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="52.015625" x="-1736.0078125" y="2955.0"/>
+          <y:Geometry height="30.0" width="52.015625" x="-2500.744800164516" y="2325.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="42.015625" x="5.0" y="5.6494140625">Midline<y:LabelModel>
@@ -6138,7 +6138,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="49.349609375" x="-1734.6748046875" y="3015.0"/>
+          <y:Geometry height="30.0" width="49.349609375" x="-2499.411792352016" y="2385.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="39.349609375" x="5.0" y="5.6494140625">Medial<y:LabelModel>
@@ -6156,7 +6156,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="50.69140625" x="-1735.345703125" y="3075.0"/>
+          <y:Geometry height="30.0" width="50.69140625" x="-2500.082690789516" y="2445.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="40.69140625" x="5.0" y="5.6494140625">Lateral<y:LabelModel>
@@ -6174,7 +6174,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="65.357421875" x="-1487.9417232729838" y="2955.0"/>
+          <y:Geometry height="30.0" width="65.357421875" x="-2252.6787109375" y="2325.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="55.357421875" x="5.0" y="5.6494140625">Ipsilateral<y:LabelModel>
@@ -6192,7 +6192,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="82.701171875" x="-1496.6135982729838" y="3015.0"/>
+          <y:Geometry height="30.0" width="82.701171875" x="-2261.3505859375" y="2385.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="72.701171875" x="5.0" y="5.6494140625">Contralateral<y:LabelModel>
@@ -6210,7 +6210,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="112.056640625" x="-1616.0283203125" y="3195.0"/>
+          <y:Geometry height="30.0" width="112.056640625" x="-2380.765307977016" y="2565.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="102.056640625" x="5.0" y="5.6494140625">Anatomical planes<y:LabelModel>
@@ -6228,7 +6228,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="104.052734375" x="-1462.0263671875" y="3135.0"/>
+          <y:Geometry height="30.0" width="104.052734375" x="-2226.763354852016" y="2505.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="94.052734375" x="5.0" y="5.6494140625">Midsagittal plane<y:LabelModel>
@@ -6246,7 +6246,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="86.720703125" x="-1453.3603515625" y="3195.0"/>
+          <y:Geometry height="30.0" width="86.720703125" x="-2218.097339227016" y="2565.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="76.720703125" x="5.0" y="5.6494140625">Sagittal plane<y:LabelModel>
@@ -6264,7 +6264,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="130.0625" x="-1475.03125" y="3255.0"/>
+          <y:Geometry height="30.0" width="130.0625" x="-2239.768237664516" y="2625.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="120.0625" x="5.0" y="5.6494140625">Horizontal/Axial plane<y:LabelModel>
@@ -6282,7 +6282,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="88.71875" x="-1454.359375" y="3315.0"/>
+          <y:Geometry height="30.0" width="88.71875" x="-2219.096362664516" y="2685.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="78.71875" x="5.0" y="5.6494140625">Coronal plane<y:LabelModel>
@@ -6660,7 +6660,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="49.34375" x="-1044.671875" y="2655.0"/>
+          <y:Geometry height="30.0" width="49.34375" x="-2376.193438600968" y="3075.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="39.34375" x="5.0" y="5.6494140625">Cortex<y:LabelModel>
@@ -6678,7 +6678,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="126.734375" x="-1172.37109375" y="2805.0"/>
+          <y:Geometry height="30.0" width="126.734375" x="-2503.892657350968" y="3225.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="116.734375" x="5.0" y="5.6494140625">Collection of neurons<y:LabelModel>
@@ -6696,7 +6696,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="57.353515625" x="-978.652736062365" y="2685.0"/>
+          <y:Geometry height="30.0" width="57.353515625" x="-2310.174299663333" y="3105.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="47.353515625" x="5.0" y="5.6494140625">Nucleus<y:LabelModel>
@@ -6714,7 +6714,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="70.70703125" x="-965.353515625" y="2745.0"/>
+          <y:Geometry height="30.0" width="70.70703125" x="-2296.875079225968" y="3165.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="60.70703125" x="5.0" y="5.6494140625">Substantia<y:LabelModel>
@@ -6732,7 +6732,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="46.021484375" x="-939.9912109375" y="2805.0"/>
+          <y:Geometry height="30.0" width="46.021484375" x="-2271.512774538468" y="3225.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="36.021484375" x="5.0" y="5.6494140625">Locus<y:LabelModel>
@@ -6750,7 +6750,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="62.03515625" x="-956.0048828125" y="2865.0"/>
+          <y:Geometry height="30.0" width="62.03515625" x="-2287.526446413468" y="3285.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="52.03515625" x="5.0" y="5.6494140625">Ganglion<y:LabelModel>
@@ -6894,7 +6894,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="115.390625" x="-1497.6953125" y="2595.0"/>
+          <y:Geometry height="30.0" width="115.390625" x="-2472.432300164516" y="2818.602405243871"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="105.390625" x="5.0" y="5.6494140625">Collection of axons<y:LabelModel>
@@ -6912,7 +6912,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="46.009765625" x="-1493.0048828125" y="2505.0"/>
+          <y:Geometry height="30.0" width="46.009765625" x="-2467.741870477016" y="2728.602405243871"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="36.009765625" x="5.0" y="5.6494140625">Nerve<y:LabelModel>
@@ -6930,7 +6930,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="41.333984375" x="-1278.9921875" y="2548.41200896"/>
+          <y:Geometry height="30.0" width="41.333984375" x="-2253.729175164516" y="2772.014414203871"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="31.333984375" x="5.0" y="5.6494140625">Tract<y:LabelModel>
@@ -6948,7 +6948,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="51.365234375" x="-1284.0078125" y="2625.0"/>
+          <y:Geometry height="30.0" width="51.365234375" x="-2258.744800164516" y="2848.602405243871"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.365234375" x="5.0" y="5.6494140625">Bundle<y:LabelModel>
@@ -6966,7 +6966,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="58.02734375" x="-1302.7787165614516" y="2685.0"/>
+          <y:Geometry height="30.0" width="58.02734375" x="-2277.515704225968" y="2908.602405243871"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="48.02734375" x="5.0" y="5.6494140625">Capsule<y:LabelModel>
@@ -6984,7 +6984,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="75.341796875" x="-1387.6708984375" y="2745.0"/>
+          <y:Geometry height="30.0" width="75.341796875" x="-2362.407886102016" y="2968.602405243871"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="65.341796875" x="5.0" y="5.6494140625">Commisure<y:LabelModel>
@@ -7002,7 +7002,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="71.357421875" x="-1485.2698482729838" y="2745.0"/>
+          <y:Geometry height="30.0" width="71.357421875" x="-2460.0068359375" y="2968.602405243871"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="61.357421875" x="5.0" y="5.6494140625">Lemniscus<y:LabelModel>
@@ -7020,7 +7020,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="76.0390625" x="591.98046875" y="2925.0"/>
+          <y:Geometry height="30.0" width="76.0390625" x="547.3417968750002" y="2625.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="66.0390625" x="5.0" y="5.6494140625">Neural tube<y:LabelModel>
@@ -7038,7 +7038,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="69.365234375" x="565.3173828125" y="3015.0"/>
+          <y:Geometry height="30.0" width="69.365234375" x="520.6787109375002" y="2715.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="59.365234375" x="5.0" y="5.6494140625">Endoderm<y:LabelModel>
@@ -7056,7 +7056,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="70.68359375" x="654.658203125" y="3015.0"/>
+          <y:Geometry height="30.0" width="70.68359375" x="610.0195312500002" y="2715.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="60.68359375" x="5.0" y="5.6494140625">Mesoderm<y:LabelModel>
@@ -7074,7 +7074,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="65.3515625" x="611.99462890625" y="3075.0"/>
+          <y:Geometry height="30.0" width="65.3515625" x="567.3559570312502" y="2775.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="55.3515625" x="5.0" y="5.6494140625">Ectoderm<y:LabelModel>
@@ -7092,7 +7092,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="78.705078125" x="615.3125" y="2745.0"/>
+          <y:Geometry height="30.0" width="78.705078125" x="570.6738281250002" y="2445.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="68.705078125" x="5.0" y="5.6494140625">Neural plate<y:LabelModel>
@@ -7110,7 +7110,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="89.375" x="615.3125" y="2805.0"/>
+          <y:Geometry height="30.0" width="89.375" x="570.6738281250002" y="2505.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="79.375" x="5.0" y="5.6494140625">Neural groove<y:LabelModel>
@@ -7128,7 +7128,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="72.03125" x="663.28125" y="2865.0"/>
+          <y:Geometry height="30.0" width="72.03125" x="618.6425781250002" y="2565.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="62.03125" x="5.0" y="5.6494140625">Neural fold<y:LabelModel>
@@ -7146,7 +7146,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="57.34765625" x="811.326171875" y="2955.0"/>
+          <y:Geometry height="30.0" width="57.34765625" x="766.6875000000002" y="2655.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="47.34765625" x="5.0" y="5.6494140625">Somites<y:LabelModel>
@@ -7164,7 +7164,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="78.6875" x="486.6298828125" y="3075.0"/>
+          <y:Geometry height="30.0" width="78.6875" x="441.9912109375002" y="2775.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="68.6875" x="5.0" y="5.6494140625">Neural crest<y:LabelModel>
@@ -7182,7 +7182,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="75.37109375" x="472.314453125" y="2865.0"/>
+          <y:Geometry height="30.0" width="75.37109375" x="427.6757812500002" y="2565.0"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="65.37109375" x="5.0" y="5.6494140625">Neurulation<y:LabelModel>
@@ -8193,7 +8193,7 @@
           <y:Geometry height="30.0" width="102.03125" x="4070.1324213241937" y="4301.383683330752"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="92.03125" x="5.0" y="5.6494140625">Gustatory cortex<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="92.03125" x="4.999999999999545" y="5.6494140625">Gustatory cortex<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -9237,7 +9237,7 @@
           <y:Geometry height="30.0" width="89.36328125" x="5390.1453311708065" y="3466.329129185721"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="79.36328125" x="5.000000000000455" y="5.6494140625">Horizontal cell<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="79.36328125" x="5.0" y="5.6494140625">Horizontal cell<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -9255,7 +9255,7 @@
           <y:Geometry height="30.0" width="86.0234375" x="5391.8152530458065" y="3586.329129185721"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="76.0234375" x="5.000000000000455" y="5.6494140625">Amacrine cell<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="76.0234375" x="5.0" y="5.6494140625">Amacrine cell<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -11649,7 +11649,7 @@
     <node id="n647">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="174.072265625" x="-1287.0361328125" y="4245.0"/>
+          <y:Geometry height="30.0" width="174.072265625" x="-1397.6468200089446" y="4469.750788277677"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="164.072265625" x="5.0" y="5.6494140625">Ventral posterior (VP) nucleus<y:LabelModel>
@@ -11904,7 +11904,7 @@
     <node id="n662">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="137.404296875" x="-1538.7021484375" y="4065.0"/>
+          <y:Geometry height="30.0" width="137.404296875" x="-1649.3128356339446" y="4289.750788277677"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="127.404296875" x="5.0" y="5.6494140625">Spinothalamic pathway<y:LabelModel>
@@ -11921,7 +11921,7 @@
     <node id="n663">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="116.046875" x="-1357.4127503035554" y="4123.5313314408595"/>
+          <y:Geometry height="30.0" width="116.046875" x="-1468.0234375" y="4348.282119718537"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="106.046875" x="5.0" y="5.6494140625">Spinothalamic tract<y:LabelModel>
@@ -11938,7 +11938,7 @@
     <node id="n664">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="176.046875" x="-1403.3564453125" y="4005.0"/>
+          <y:Geometry height="30.0" width="176.046875" x="-1513.9671325089446" y="4229.750788277677"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="166.046875" x="5.0" y="5.6494140625">Primary somatosensory cortex<y:LabelModel>
@@ -11955,7 +11955,7 @@
     <node id="n665">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="28.677734375" x="-1484.3388671875" y="3994.8026850546235"/>
+          <y:Geometry height="30.0" width="28.677734375" x="-1594.9495543839446" y="4219.5534733323"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="18.677734375" x="5.0" y="5.6494140625">S1<y:LabelModel>
@@ -11972,7 +11972,7 @@
     <node id="n666">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="90.693359375" x="-1335.3466796875" y="3855.0"/>
+          <y:Geometry height="30.0" width="90.693359375" x="-1445.9573668839446" y="4079.750788277677"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="80.693359375" x="5.0" y="5.6494140625">Dorsal column<y:LabelModel>
@@ -11989,7 +11989,7 @@
     <node id="n667">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="125.380859375" x="-1352.6904296875" y="3915.0"/>
+          <y:Geometry height="30.0" width="125.380859375" x="-1463.3011168839446" y="4139.750788277677"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="115.380859375" x="5.0" y="5.6494140625">Dorsal column nuclei<y:LabelModel>
@@ -12006,7 +12006,7 @@
     <node id="n668">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="106.033203125" x="-1193.0166015625" y="3915.0"/>
+          <y:Geometry height="30.0" width="106.033203125" x="-1303.6272887589446" y="4139.750788277677"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="96.033203125" x="5.0" y="5.6494140625">Medial lemniscus<y:LabelModel>
@@ -12023,7 +12023,7 @@
     <node id="n669">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="231.41796875" x="-1366.5196827861682" y="3795.0"/>
+          <y:Geometry height="30.0" width="231.41796875" x="-1477.1303699826128" y="4019.750788277677"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="221.41796875" x="5.0" y="5.6494140625">Dorsal column-medial lemniscal pathway<y:LabelModel>
@@ -13455,6 +13455,448 @@
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="79.38671875" x="5.0" y="5.6494140625">Pontine nuclei<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n754">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="83.357421875" x="-1098.715923763441" y="3735.0"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="73.357421875" x="5.0" y="5.6494140625">Homeostasis<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n755">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="120.048828125" x="-1248.764751888441" y="3684.5934785183654"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="110.048828125" x="5.0" y="5.6494140625">Periventricular zone<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n756">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="193.419921875" x="-1536.7099609375" y="3615.0"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="183.419921875" x="5.0" y="5.6494140625">Magnocellular neurosecretory cell<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n757">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="94.044921875" x="-1667.0224609375" y="3615.0"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="84.044921875" x="5.0" y="5.6494140625">Neurohormone<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n758">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="60.681640625" x="-1650.3408203125" y="3525.0"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.681640625" x="5.0" y="5.6494140625">Oxytocin<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n759">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="80.03515625" x="-1780.017578125" y="3525.0"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="70.03515625" x="5.0" y="5.6494140625">Vasopressin<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n760">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="160.71875" x="-1820.359375" y="3465.0"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="150.71875" x="5.0" y="5.6494140625">Antidiuretic hormone (ADH)<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n761">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="188.076171875" x="-1534.0380859375" y="3735.0"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="178.076171875" x="5.0" y="5.6494140625">Parvocellular neurosecretory cell<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n762">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="156.740234375" x="-1788.3701171875" y="3735.0"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="146.740234375" x="5.0" y="5.6494140625">Hypophysiotropic hormone<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n763">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="225.423828125" x="-1672.7119140625" y="3783.972325293419"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="215.423828125" x="5.0" y="5.6494140625">Hypo-thalamo-pituitary portal circulation<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n764">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="88.056640625" x="-1593.8644895813516" y="3895.4742939592948"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="78.056640625" x="5.0" y="5.6494140625">Adrenal gland<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n765">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="91.373046875" x="-1685.5226927063516" y="3955.4742939592948"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="81.373046875" x="5.0" y="5.6494140625">Adrenal cortex<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n766">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="100.71875" x="-1570.1955442688516" y="3955.4742939592948"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="90.71875" x="5.0" y="5.6494140625">Adrenal medulla<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n767">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="54.67578125" x="-1707.337890625" y="3885.0"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="44.67578125" x="5.0" y="5.6494140625">Cortisol<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n768">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="123.3828125" x="-1.69140625" y="2955.0"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="113.3828125" x="5.0" y="5.6494140625">Sympathetic division<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n769">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="146.7265625" x="166.63671875" y="2925.0"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="136.7265625" x="5.0" y="5.6494140625">Parasympathetic division<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n770">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="112.73046875" x="1743.634765625" y="3825.0"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="102.73046875" x="5.0" y="5.6494140625">Autonomic ganglia<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n771">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="132.751953125" x="1733.6240234375" y="3885.0"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="122.751953125" x="5.0" y="5.6494140625">Postganglionic neuron<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n772">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="127.4140625" x="1736.29296875" y="3945.0"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="117.4140625" x="5.0" y="5.6494140625">Preganglionic neuron<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n773">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="112.05078125" x="3.974609375" y="3015.0"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="102.05078125" x="5.0" y="5.6494140625">Sympathetic chain<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n774">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="94.701171875" x="342.6494140625" y="2925.0"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="84.701171875" x="5.0" y="5.6494140625">Enteric division<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n775">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="158.7265625" x="475.9980468750002" y="2925.0"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="148.7265625" x="5.0" y="5.6494140625">Nucleus of the solitary tract<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n776">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="155.380859375" x="702.3095703125" y="2925.0"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="145.380859375" x="5.0" y="5.6494140625">Diffuse modulatory system<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n777">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="101.38671875" x="-1010.693359375" y="3915.0"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="91.38671875" x="5.0" y="5.6494140625">Locus coeruleus<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n778">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="84.048828125" x="-132.0244140625" y="3465.0"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="74.048828125" x="5.0" y="5.6494140625">Raphe nuclei<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n779">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="142.73046875" x="-1031.365234375" y="1545.0"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="132.73046875" x="5.0" y="5.6494140625">Basal forebrain complex<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -21036,6 +21478,196 @@
       </data>
     </edge>
     <edge id="e757" source="n753" target="n48">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="short"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e758" source="n754" target="n44">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="short"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e759" source="n755" target="n44">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="short"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e760" source="n756" target="n44">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="short"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e761" source="n756" target="n757">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="short"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e762" source="n758" target="n757">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="short"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e763" source="n759" target="n757">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="short"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e764" source="n760" target="n759">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="short"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e765" source="n761" target="n44">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="short"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e766" source="n761" target="n762">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="short"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e767" source="n762" target="n763">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="short"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e768" source="n765" target="n764">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="short"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e769" source="n766" target="n764">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="short"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e770" source="n764" target="n767">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="short"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e771" source="n768" target="n358">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="short"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e772" source="n769" target="n358">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="short"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e773" source="n771" target="n770">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="short"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e774" source="n772" target="n771">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="short"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e775" source="n777" target="n48">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="short"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e776" source="n778" target="n351">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
